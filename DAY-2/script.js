@@ -51,6 +51,15 @@
 
 // })()
 
+// 6--A higher-order function is a function that either:
+
+// Takes one or more functions as arguments, or
+// Returns a function as its result-foreach map, filter, settimeout
+// let numbers = [1, 2, 3, 4, 5];
+// numbers.forEach(function (val) {
+//   console.log(val + 2);
+// });
+
 // -------------------------
 // filter---
 // filter ele by a condition
